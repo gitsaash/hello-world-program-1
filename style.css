@@ -1,0 +1,27 @@
+header {
+    color: black;
+    background-color: red;
+    
+}
+body {
+    font-size: larger;
+    background-color: black;
+}
+#first{
+    color: rgb(22, 223, 156);
+}
+.orange {
+    color: rgb(233, 181, 201);
+}
+.green{
+    color: rgb(22, 134, 238);
+}
+.highlight{
+    color: yellow;
+}
+b {
+  color: crimson;
+}
+p:hover{
+    font-family: 'Courier New', Courier, monospace;
+}
